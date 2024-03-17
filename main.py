@@ -1,5 +1,6 @@
 from chestclassifier import logger
 from chestclassifier.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from chestclassifier.pipeline.stage_02_prepare_base_model import PrepareBaseModelTrainingPipeline
 
 
 
