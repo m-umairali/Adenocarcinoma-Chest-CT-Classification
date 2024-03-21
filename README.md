@@ -1,4 +1,4 @@
-# Adenocarcinoma-Chest-CT-Classification
+# Adenocarcinoma Chest CT Classification
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/m-umairali/Adenocarcinoma-Chest-CT-Classification)
