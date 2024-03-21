@@ -7,7 +7,18 @@
 ![GitHub forks](https://img.shields.io/github/forks/m-umairali/Adenocarcinoma-Chest-CT-Classification)
 ![X Follow](https://img.shields.io/twitter/follow/umair_ali_11?style=social)
 
-"Predict My USA Visa" is a machine learning projection app to predict the approval likelihood of USA visa applications. Gain insights into approval factors, make informed decisions, and simplify the visa application process.
+Our project focuses on developing an advanced image classification solution for efficiently detecting adenocarcinoma cancer from chest CT scans. Leveraging state-of-the-art machine learning techniques, our model aims to accurately differentiate between scans showing signs of adenocarcinoma and those that are cancer-free.
+
+## Dataset:
+We utilize a comprehensive dataset of chest CT scans, annotated by medical professionals to indicate the presence or absence of adenocarcinoma cancer. The dataset is carefully curated to ensure diversity and representativeness, enabling robust model training and evaluation.
+
+## Usage:
+- Data Preprocessing: Preprocess the chest CT scans to prepare them for input into the classification model.
+- Model Training: Train the classification model using the preprocessed data and appropriate machine learning techniques.
+- Evaluation: Evaluate the trained model's performance using validation datasets and appropriate evaluation metrics.
+- Deployment: Deploy the trained model for real-world usage, integrating it into existing medical imaging systems or workflows.
+
+
 
 # Project workflow
 
@@ -61,7 +72,8 @@ Thanks to the following people who have contributed to this project:
 
 * [@Alishaw99](https://github.com/Alishaw99) 🐛
 
-
+## Acknowledgments:
+We would like to express our gratitude to the medical professionals and researchers who contributed to the development and annotation of the dataset used in this project. Their efforts are instrumental in advancing cancer detection and treatment.
 
 ## Contact
 
