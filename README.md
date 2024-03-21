@@ -9,6 +9,9 @@
 
 Our project focuses on developing an advanced image classification solution for efficiently detecting adenocarcinoma cancer from chest CT scans. Leveraging state-of-the-art machine learning techniques, our model aims to accurately differentiate between scans showing signs of adenocarcinoma and those that are cancer-free.
 
+## Tool Stack:
+https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white
+
 ## Dataset:
 We utilize a comprehensive dataset of chest CT scans, annotated by medical professionals to indicate the presence or absence of adenocarcinoma cancer. The dataset is carefully curated to ensure diversity and representativeness, enabling robust model training and evaluation.
 
