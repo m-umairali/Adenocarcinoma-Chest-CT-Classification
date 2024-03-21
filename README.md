@@ -7,6 +7,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/m-umairali/Adenocarcinoma-Chest-CT-Classification)
 ![X Follow](https://img.shields.io/twitter/follow/umair_ali_11?style=social)
 
+![banner](https://github.com/m-umairali/Adenocarcinoma-Chest-CT-Classification/blob/main/banner.png)
+
 Our project focuses on developing an advanced image classification solution for efficiently detecting adenocarcinoma cancer from chest CT scans. Leveraging state-of-the-art machine learning techniques, our model aims to accurately differentiate between scans showing signs of adenocarcinoma and those that are cancer-free.
 
 ## Tool Stack:
