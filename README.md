@@ -22,7 +22,7 @@ We utilize a comprehensive dataset of chest CT scans, annotated by medical profe
 
 # Project workflow
 
-![](https://github.com/m-umairali/predict-my-usa-visa/blob/main/workflow.jfif)
+![]([https://github.com/m-umairali/predict-my-usa-visa/blob/main/workflow.jfif](https://github.com/m-umairali/Adenocarcinoma-Chest-CT-Classification/blob/main/diagram.png))
 
 # Prerequisites
 
