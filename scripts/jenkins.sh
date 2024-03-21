@@ -5,7 +5,8 @@ sudo apt update
 sudo apt install openjdk-8-jdk -y
 
 https://pkg.jenkins.io/
-https://pkg.jenkins.io/debian-stable/
+https://pkg.jenkins.io/debian-stable/ 
+# (copy command from here)
 
 sudo systemctl start jenkins
 
